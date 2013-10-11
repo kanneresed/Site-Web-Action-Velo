@@ -210,7 +210,7 @@ body {
   background-color: #210f1d;
 }
 a {
-  color: #ff5b5b;
+  color: #80b6e1;
   text-decoration: none;
 }
 a:hover,
@@ -1043,7 +1043,7 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .uneditable-input:focus {
-  border-color: #ff5b5b;
+  border-color: #80b6e1;
   outline: 0;
   outline: thin dotted \9;
   /* IE6-9 */
@@ -2064,11 +2064,11 @@ table th[class*="span"],
   text-decoration: none;
   color: #ffffff;
   background-color: #ff5151;
-  background-image: -moz-linear-gradient(top, #ff5b5b, #ff4242);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff5b5b), to(#ff4242));
-  background-image: -webkit-linear-gradient(top, #ff5b5b, #ff4242);
-  background-image: -o-linear-gradient(top, #ff5b5b, #ff4242);
-  background-image: linear-gradient(to bottom, #ff5b5b, #ff4242);
+  background-image: -moz-linear-gradient(top, #80b6e1, #ff4242);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#80b6e1), to(#ff4242));
+  background-image: -webkit-linear-gradient(top, #80b6e1, #ff4242);
+  background-image: -o-linear-gradient(top, #80b6e1, #ff4242);
+  background-image: linear-gradient(to bottom, #80b6e1, #ff4242);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff5b5b', endColorstr='#ffff4242', GradientType=0);
 }
@@ -2079,11 +2079,11 @@ table th[class*="span"],
   text-decoration: none;
   outline: 0;
   background-color: #ff5151;
-  background-image: -moz-linear-gradient(top, #ff5b5b, #ff4242);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff5b5b), to(#ff4242));
-  background-image: -webkit-linear-gradient(top, #ff5b5b, #ff4242);
-  background-image: -o-linear-gradient(top, #ff5b5b, #ff4242);
-  background-image: linear-gradient(to bottom, #ff5b5b, #ff4242);
+  background-image: -moz-linear-gradient(top, #80b6e1, #ff4242);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#80b6e1), to(#ff4242));
+  background-image: -webkit-linear-gradient(top, #80b6e1, #ff4242);
+  background-image: -o-linear-gradient(top, #80b6e1, #ff4242);
+  background-image: linear-gradient(to bottom, #80b6e1, #ff4242);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffff5b5b', endColorstr='#ffff4242', GradientType=0);
 }
@@ -2510,12 +2510,12 @@ input[type="button"].btn-block {
 .btn-inverse.disabled,
 .btn-inverse[disabled] {
   color: #ffffff;
-  background-color: #ff5b5b;
-  *background-color: #ff5b5b;
+  background-color: #80b6e1;
+  *background-color: #80b6e1;
 }
 .btn-inverse:active,
 .btn-inverse.active {
-  background-color: #ff5b5b;
+  background-color: #80b6e1;
 }
 button.btn,
 input[type="submit"].btn {
@@ -2554,7 +2554,7 @@ input[type="submit"].btn.btn-mini {
 .btn-link {
   border-color: transparent;
   cursor: pointer;
-  color: #ff5b5b;
+  color: #80b6e1;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   border-radius: 0;
@@ -2897,7 +2897,7 @@ input[type="submit"].btn.btn-mini {
 .nav-list > .active > a:focus {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-  background-color: #ff5b5b;
+  background-color: #80b6e1;
 }
 .nav-list [class^="icon-"],
 .nav-list [class*=" icon-"] {
@@ -2980,7 +2980,7 @@ input[type="submit"].btn.btn-mini {
 .nav-pills > .active > a:hover,
 .nav-pills > .active > a:focus {
   color: #ffffff;
-  background-color: #ff5b5b;
+  background-color: #80b6e1;
 }
 .nav-stacked > li {
   float: none;
@@ -3035,8 +3035,8 @@ input[type="submit"].btn.btn-mini {
   border-radius: 6px;
 }
 .nav .dropdown-toggle .caret {
-  border-top-color: #ff5b5b;
-  border-bottom-color: #ff5b5b;
+  border-top-color: #80b6e1;
+  border-bottom-color: #80b6e1;
   margin-top: 6px;
 }
 .nav .dropdown-toggle:hover .caret,
@@ -3703,7 +3703,7 @@ input[type="submit"].btn.btn-mini {
   list-style: none;
   background-color: #ffffff;
   box-shadow: 0 5px 7px rgba(0, 0, 0, 0.22);
-  border-top: 6px solid #ff5b5b;
+  border-top: 6px solid #80b6e1;
   margin: 0 0 30px 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
@@ -4246,7 +4246,7 @@ input[type="submit"].btn.btn-mini {
 }
 a.thumbnail:hover,
 a.thumbnail:focus {
-  border-color: #ff5b5b;
+  border-color: #80b6e1;
   -webkit-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
   -moz-box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);
   box-shadow: 0 1px 4px rgba(0, 105, 214, 0.25);

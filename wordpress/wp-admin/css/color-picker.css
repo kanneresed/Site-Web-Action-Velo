@@ -101,7 +101,7 @@
 }
 
 input[type="text"].iris-error {
-	background-color: #ffebe8;
+	background-color: #e8fcff;
 	border-color: #c00;
 	color: #000;
 }
