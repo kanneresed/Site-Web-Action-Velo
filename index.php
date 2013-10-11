@@ -1,4 +1,5 @@
-<php>
+<?php
 
-    include(/wordpress/index.php);
-</php>
+    include(wordpress/index.php);
+    echo 'salut';
+?>
